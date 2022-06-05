@@ -6,8 +6,6 @@ This app recreates some of the experience of this popular word game by prompting
 
 I began playing Wordle with my kids and it became a fun thing to do when we had a few minutes and wanted to expand their vocabulary and thinking skills. It can be frustrating to play with others because you get only one game per day. In my implementation, the user can play again with a fresh word after completing a game.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Watch a demonstration video](https://www.youtube.com/watch?v=twkhX84OO-4)
 
 # Development Environment
@@ -18,7 +16,6 @@ React Native gives the option of JavaScript or TypeScript and I opted to use Typ
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [React Native Docs](https://reactnative.dev/)
 
 # Future Work
